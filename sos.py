@@ -3,8 +3,8 @@ from twilio.rest import Client
     
 
 
-account_sid = 'AC1f664db0a5f187461d612cd39f92a639'
-auth_token = 'f01c74bdb55f9230a77bc0f4b851bb13'
+account_sid = ''
+auth_token = ''
 
 # Twilio phone number and destination phone number
 twilio_number = '+123456789'  # Your Twilio phone number
